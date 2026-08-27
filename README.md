@@ -44,7 +44,7 @@ piton-loja de animais/
 
 ##  Herança
 
-A classe `Animal` é utilizada como classe base. As classes `Cachorro` e `Gato` herdam características de `Animal` e possuem comportamentos próprios.
+A classe Animal é utilizada como classe base. As classes Cachorro e Gato herdam características de Animal e possuem comportamentos próprios.
 
 ```text
 Animal
