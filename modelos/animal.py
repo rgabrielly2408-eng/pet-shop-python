@@ -15,5 +15,3 @@ class Animal(ABC):
     @abstractmethod
     def descricao(self):
         pass
-
-Implementar classe abstrata Animal
