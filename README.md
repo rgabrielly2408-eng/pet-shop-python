@@ -20,15 +20,15 @@ O projeto foi organizado utilizando programação orientada a objetos (POO).
 
 ### Classes utilizadas
 
-* **Animal** — classe abstrata que representa um animal.
-* **Cachorro** — classe que herda de Animal.
-* **Gato** — classe que herda de Animal.
-* **Cliente** — representa o cliente do Pet Shop.
-* **PetShop** — responsável por armazenar e gerenciar clientes e serviços.
+- Animal — classe abstrata que representa um animal.
+- Cachorro — classe que herda de Animal.
+- Gato — classe que herda de Animal.
+- Cliente — representa o cliente do Pet Shop.
+- Servico — representa os serviços oferecidos.
+- PetShop — responsável por gerenciar clientes e serviços.
 
 ### Estrutura dos arquivos
 
-```text
 piton-loja de animais/
 │
 ├── main.py
@@ -39,8 +39,8 @@ piton-loja de animais/
     ├── cachorro.py
     ├── gato.py
     ├── cliente.py
-    └── servico.py
-```
+    ├── servico.py
+    └── petshop.py
 
 ##  Herança
 
