@@ -73,7 +73,7 @@ python main.py
 
 ##  Organização
 
-Os arquivos das classes ficam dentro da pasta `modelos`, enquanto o `main.py` é responsável pelo fluxo principal do sistema.
+Os arquivos das classes ficam dentro da pasta modelos, enquanto o main.py é responsável pelo fluxo principal do sistema.
 
 ##  Desenvolvimento
 
