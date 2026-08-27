@@ -19,7 +19,6 @@ de clientes, animais e serviços de um Pet Shop.
 - Cachorro
 - Gato
 - Cliente
-- Servico
 - PetShop
 
 Criar README inicial do projeto
