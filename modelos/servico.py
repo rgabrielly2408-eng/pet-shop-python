@@ -1,16 +1,8 @@
-class PetShop:
+class Servico:
 
-    def __init__(self):
-        self.clientes = []
-        self.servicos = []
+    def __init__(self, nome, preco):
+        self.nome = nome
+        self.preco = preco
 
-    def adicionar_cliente(self, cliente):
-        self.clientes.append(cliente)
-
-    def adicionar_servico(self, servico):
-        self.servicos.append(servico)
-
-    def exibir_petshop(self):
-        print("===== PET SHOP =====")
-        print(f"Quantidade de clientes: {len(self.clientes)}")
-        print(f"Quantidade de serviços: {len(self.servicos)}")
+    def descricao(self):
+        return f"{self.nome} - R$ {self.preco:.2f}"
