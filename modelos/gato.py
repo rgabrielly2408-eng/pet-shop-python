@@ -1,4 +1,4 @@
-from modelos.animal import Animal
+from .animal import Animal
 
 
 class Gato(Animal):
