@@ -1,5 +1,4 @@
-from modelos.servico import PetShop
-
+from modelos.petshop import PetShop
 
 clientes = []
 animais = []
