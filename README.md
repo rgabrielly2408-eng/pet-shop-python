@@ -56,7 +56,6 @@ Animal
 
 * Python
 * Programação Orientada a Objetos
-* Git
 * GitHub
 
 ##  Como executar
